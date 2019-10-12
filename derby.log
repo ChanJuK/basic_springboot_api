@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 12 22:34:55 KST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016c-8609-f13a-0000060772b8 
+on database directory memory:/Users/kyung/Documents/springFramwork/kakaoTask1ChanJuKyung/testdb with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/Users/kyung/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=/Users/kyung/Documents/springFramwork/kakaoTask1ChanJuKyung
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
