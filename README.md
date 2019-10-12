@@ -1,7 +1,5 @@
-﻿# 카카오페시 서버개발자 사전과제1 
-지원자 : 경찬주 
-
-개발 프레임 워크 : Spring boot Starter project, JPA, Apache Derby Database, SQL
+# Basic Springboot api 
+Spring boot Starter project, JPA, Apache Derby Database, SQL
 
 
 ----
